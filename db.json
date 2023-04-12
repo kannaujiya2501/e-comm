@@ -1,0 +1,48 @@
+{
+  "seller": [
+    {
+      "name": "Vishal Kumar Kannaujiya",
+      "password": "Vishal@123",
+      "email": "vishal.kannaujiya@gmail.com",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "Levis Jeans",
+      "price": "2999",
+      "category": "Mens coloths",
+      "color": "black",
+      "description": "levs jenas ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "password": "vishal@123",
+      "id": 1
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "siddharth.singh0701@gmail.com",
+      "address": "A1/17 Gautam Center kopri Thane East Kopri",
+      "contact": "8070214632",
+      "totalPrice": 9097,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "siddharth.singh0701@gmail.com",
+      "address": "A1/17 Gautam Center kopri Thane East Kopri",
+      "contact": "08070216971",
+      "totalPrice": 3099,
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
