@@ -16,6 +16,24 @@
       "description": "levs jenas ",
       "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
       "id": 1
+    },
+    {
+      "name": "shirt",
+      "price": "999",
+      "category": "men",
+      "color": "blue",
+      "description": "good",
+      "image": "assets/products/shirt.jpg",
+      "id": 2
+    },
+    {
+      "name": "",
+      "price": "",
+      "category": "",
+      "color": "",
+      "description": "",
+      "image": "",
+      "id": 3
     }
   ],
   "users": [
@@ -26,23 +44,19 @@
       "id": 1
     }
   ],
-  "cart": [],
-  "orders": [
+  "cart": [
     {
-      "email": "siddharth.singh0701@gmail.com",
-      "address": "A1/17 Gautam Center kopri Thane East Kopri",
-      "contact": "8070214632",
-      "totalPrice": 9097,
+      "name": "shirt",
+      "price": "999",
+      "category": "men",
+      "color": "blue",
+      "description": "good",
+      "image": "assets/products/shirt.jpg",
+      "quantity": 4,
+      "productId": 2,
       "userId": 1,
       "id": 1
-    },
-    {
-      "email": "siddharth.singh0701@gmail.com",
-      "address": "A1/17 Gautam Center kopri Thane East Kopri",
-      "contact": "08070216971",
-      "totalPrice": 3099,
-      "userId": 1,
-      "id": 2
     }
-  ]
+  ],
+  "orders": []
 }
