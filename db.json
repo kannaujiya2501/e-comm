@@ -116,6 +116,19 @@
       "id": 1
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "name": "Four-Poster Bed",
+      "price": "20000",
+      "category": "Bed",
+      "color": "Black",
+      "description": "A full mattress (also called a double) is 53 inches wide and 75 inches long. It’s 16 inches wider than a twin. The full-size bed is great for single sleepers like young adults or recent grads. It can also work nicely in guest rooms.",
+      "image": "assets/Bed/Bimg3.jpg",
+      "quantity": 2,
+      "productId": 6,
+      "userId": 1,
+      "id": 1
+    }
+  ],
   "orders": []
 }
